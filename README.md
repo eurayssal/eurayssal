@@ -38,9 +38,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/eurayssal/eurayssal/output/snake.svg" alt="Snake animation" />
-
-###
